@@ -1,0 +1,7 @@
+https://github.com/emanuelggp/AlkeWallet.java.git
+
+Al terminar con lo solicitado intenté avanzar un poco más y ponerle un login. 
+El login solo, funciona y lanzando el menú sin login funciona, 
+pero no sé por qué poniendo todo junto no funciona. 
+Intenté buscar el error pero no lo encontré y lo entregué así porque cumple con lo solicitado. 
+Si logra encontrar el error me avisa! jajaja
